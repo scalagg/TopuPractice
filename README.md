@@ -14,3 +14,9 @@ YourKit is the creator of <a href="https://yourkit.com/java/profiler/">YourKit J
 <a href="https://yourkit.com/dotnet-profiler/features/">YourKit .NET Profiler</a>,
 and <a href="https://yourkit.com/youmonitor/download/">YourKit YouMonitor</a>.
 for monitoring and profiling Java and .NET applications.
+
+-----
+## Credits 
+- GrowlyX
+- DripW
+- Elb1to
