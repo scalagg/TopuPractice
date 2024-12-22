@@ -1,3 +1,6 @@
+# PROJECT IS DEFIENTLY NOT MADE BY GROWLY AND JAY ITS DEF TOPU PRACTICE
+
+
 # Tropic Practice
 A highly-scalable practice plugin used on the `tropic.gg` and `duels.us` servers.
 
